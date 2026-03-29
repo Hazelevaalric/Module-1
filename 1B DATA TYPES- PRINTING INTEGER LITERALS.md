@@ -1,6 +1,6 @@
 # Experiment No: 1B- Data Types – Printing Integer Literals
 
-## AIM  
+## AIM:
 To write a Python program to print the following integer literals: 10,3.14.
 ## ALGORITHM  
 1.Begin the program.
